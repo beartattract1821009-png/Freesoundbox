@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Soundbox</string>
+    <string name="payment_history_title">Payment History</string>
+    <string name="no_transactions_title">No transactions yet</string>
+    <string name="no_transactions_desc">Payments you receive will appear here</string>
+    <string name="listener_status_active">Listener active</string>
+    <string name="listener_desc_active">Payment alerts will be announced aloud</string>
+    <string name="permission_granted">Permission granted</string>
+    <string name="filter_all">All</string>
+    <string name="filter_gpay">GPay</string>
+    <string name="filter_phonepe">PhonePe</string>
+    <string name="filter_paytm">Paytm</string>
+    <string name="btn_view_history">View History</string>
+    <string name="btn_test_alert">Test Alert</string>
+    <string name="btn_simulate_payment">Simulate Payment</string>
+    <string name="btn_enable_permission">Enable Permission</string>
+</resources>
